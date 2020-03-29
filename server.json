@@ -1,0 +1,800 @@
+{
+  "posts": [
+    {
+      "meta": {
+        "description": "Recentemente tivemos o lançamento do Preview 1 do Entity Framework Core 5, que talvez seja uma das versões mais esperadas do Framework. Neste artigo vamos ver como utilizar esta versão e quais as primeiras novidades.",
+        "keywords": "efcore ef core efcore5 entity framework core 5",
+        "url": "entity-framework-core-5-preview-1"
+      },
+      "_id": "5e78c6277c213e3443ef4d6f",
+      "title": "Entity Framework Core 5 - Preview 1",
+      "summary": "Recentemente tivemos o lançamento do Preview 1 do Entity Framework Core 5, que talvez seja uma das versões mais esperadas do Framework. Neste artigo vamos ver como utilizar esta versão e quais as primeiras novidades.",
+      "author": {
+        "bio": "Olá eu sou o André Baltieri, desenvolvedor Web desde 2003, já trabalhei no Brasil e nos EUA, em projetos de diversos tamanhos. <br><br>Recebi por sete vezes consecutivas, o prêmio de Most Valuable Professional da Microsoft, um reconhecimento global dado para os maiores influentes em suas tecnologias. <br><br>Atuei também como Head of People, recrutando, selecionando e direcionando a carreira de mais de 70 desenvolvedores em uma das melhores empresas para se trabalhar do Brasil.<br><br>Sou palestrante em diversos eventos como ASP.NET Conference, DevXperience, TDC, GDG dentre outros e desde 2012 realizo treinamentos e consultorias em diversas empresas do Brasil, acumulando uma ótima experiência que também transformo em cursos InCompany e Online.",
+        "_id": "5b608805b8be7b3d00f6114e",
+        "name": "André Baltieri",
+        "title": "7x Microsoft MVP",
+        "badge": "",
+        "image": "https://baltaio.blob.core.windows.net/student-images/1edd5c50-bae9-11e8-8eb4-39de303632c1.jpg"
+      },
+      "category": "backend",
+      "createDate": "2020-03-23T00:00:00.000Z"
+    },
+    {
+      "meta": {
+        "description": "Node é um executor de código JavaScript bem popular no mundo da programação. Neste artigo veremos como realizar sua instalação, configuração e primeiros passos.",
+        "keywords": "node npm",
+        "url": "node-npm-instalacao-configuracao-e-primeiros-passos"
+      },
+      "_id": "5e74d9e77c213e3443eea1d0",
+      "title": "Node e NPM - Instalação, Configuração e Primeiros Passos",
+      "summary": "Node é um executor de código JavaScript bem popular no mundo da programação. Neste artigo veremos como realizar sua instalação, configuração e primeiros passos.",
+      "author": {
+        "bio": "Olá eu sou o André Baltieri, desenvolvedor Web desde 2003, já trabalhei no Brasil e nos EUA, em projetos de diversos tamanhos. <br><br>Recebi por sete vezes consecutivas, o prêmio de Most Valuable Professional da Microsoft, um reconhecimento global dado para os maiores influentes em suas tecnologias. <br><br>Atuei também como Head of People, recrutando, selecionando e direcionando a carreira de mais de 70 desenvolvedores em uma das melhores empresas para se trabalhar do Brasil.<br><br>Sou palestrante em diversos eventos como ASP.NET Conference, DevXperience, TDC, GDG dentre outros e desde 2012 realizo treinamentos e consultorias em diversas empresas do Brasil, acumulando uma ótima experiência que também transformo em cursos InCompany e Online.",
+        "_id": "5b608805b8be7b3d00f6114e",
+        "name": "André Baltieri",
+        "title": "7x Microsoft MVP",
+        "badge": "",
+        "image": "https://baltaio.blob.core.windows.net/student-images/1edd5c50-bae9-11e8-8eb4-39de303632c1.jpg"
+      },
+      "category": "fullstack",
+      "createDate": "2020-03-20T00:00:00.000Z"
+    },
+    {
+      "meta": {
+        "description": "Git é um sistema de controle de versões distribuídas, enquanto GitHub é uma plataforma que tem o Git como base para versionar nossos códigos.",
+        "keywords": "git github",
+        "url": "git-github-primeiros-passos"
+      },
+      "_id": "5e7238dde7179a17e21885cf",
+      "title": "Git e GitHub - Instalação, Configuração e Primeiros Passos",
+      "summary": "Git é um sistema de controle de versões distribuídas, enquanto GitHub é uma plataforma que tem o Git como base para versionar nossos códigos.",
+      "author": {
+        "bio": "Olá eu sou o André Baltieri, desenvolvedor Web desde 2003, já trabalhei no Brasil e nos EUA, em projetos de diversos tamanhos. <br><br>Recebi por sete vezes consecutivas, o prêmio de Most Valuable Professional da Microsoft, um reconhecimento global dado para os maiores influentes em suas tecnologias. <br><br>Atuei também como Head of People, recrutando, selecionando e direcionando a carreira de mais de 70 desenvolvedores em uma das melhores empresas para se trabalhar do Brasil.<br><br>Sou palestrante em diversos eventos como ASP.NET Conference, DevXperience, TDC, GDG dentre outros e desde 2012 realizo treinamentos e consultorias em diversas empresas do Brasil, acumulando uma ótima experiência que também transformo em cursos InCompany e Online.",
+        "_id": "5b608805b8be7b3d00f6114e",
+        "name": "André Baltieri",
+        "title": "7x Microsoft MVP",
+        "badge": "",
+        "image": "https://baltaio.blob.core.windows.net/student-images/1edd5c50-bae9-11e8-8eb4-39de303632c1.jpg"
+      },
+      "category": "fullstack",
+      "createDate": "2020-03-18T00:00:00.000Z"
+    },
+    {
+      "meta": {
+        "description": "O Visual Studio Code é um editor de código criado pela Microsoft e que tem uma grande adoção pelas comunidades de diversas linguagens e tecnologias.",
+        "keywords": "visual studio code vscode",
+        "url": "visual-studio-code-instalacao-customizacao"
+      },
+      "_id": "5e712df87c213e3443ed735a",
+      "title": "Visual Studio Code - Instalação e Customização",
+      "summary": "O Visual Studio Code é um editor de código criado pela Microsoft e que tem uma grande adoção pelas comunidades de diversas linguagens e tecnologias.",
+      "author": {
+        "bio": "Olá eu sou o André Baltieri, desenvolvedor Web desde 2003, já trabalhei no Brasil e nos EUA, em projetos de diversos tamanhos. <br><br>Recebi por sete vezes consecutivas, o prêmio de Most Valuable Professional da Microsoft, um reconhecimento global dado para os maiores influentes em suas tecnologias. <br><br>Atuei também como Head of People, recrutando, selecionando e direcionando a carreira de mais de 70 desenvolvedores em uma das melhores empresas para se trabalhar do Brasil.<br><br>Sou palestrante em diversos eventos como ASP.NET Conference, DevXperience, TDC, GDG dentre outros e desde 2012 realizo treinamentos e consultorias em diversas empresas do Brasil, acumulando uma ótima experiência que também transformo em cursos InCompany e Online.",
+        "_id": "5b608805b8be7b3d00f6114e",
+        "name": "André Baltieri",
+        "title": "7x Microsoft MVP",
+        "badge": "",
+        "image": "https://baltaio.blob.core.windows.net/student-images/1edd5c50-bae9-11e8-8eb4-39de303632c1.jpg"
+      },
+      "category": "fullstack",
+      "createDate": "2020-03-17T00:00:00.000Z"
+    },
+    {
+      "meta": {
+        "description": "Neste artigo vamos realizar a instalação e configuração do Flutter para criação de Apps Android no Windows.",
+        "keywords": "flutter android",
+        "url": "flutter-instalacao-configuracao-android-windows"
+      },
+      "_id": "5e712ebb7c213e3443ed73b9",
+      "title": "Flutter - Instalação e Configuração do Android no Windows",
+      "summary": "Neste artigo vamos realizar a instalação e configuração do Flutter para criação de Apps Android no Windows.",
+      "author": {
+        "bio": "Olá eu sou o André Baltieri, desenvolvedor Web desde 2003, já trabalhei no Brasil e nos EUA, em projetos de diversos tamanhos. <br><br>Recebi por sete vezes consecutivas, o prêmio de Most Valuable Professional da Microsoft, um reconhecimento global dado para os maiores influentes em suas tecnologias. <br><br>Atuei também como Head of People, recrutando, selecionando e direcionando a carreira de mais de 70 desenvolvedores em uma das melhores empresas para se trabalhar do Brasil.<br><br>Sou palestrante em diversos eventos como ASP.NET Conference, DevXperience, TDC, GDG dentre outros e desde 2012 realizo treinamentos e consultorias em diversas empresas do Brasil, acumulando uma ótima experiência que também transformo em cursos InCompany e Online.",
+        "_id": "5b608805b8be7b3d00f6114e",
+        "name": "André Baltieri",
+        "title": "7x Microsoft MVP",
+        "badge": "",
+        "image": "https://baltaio.blob.core.windows.net/student-images/1edd5c50-bae9-11e8-8eb4-39de303632c1.jpg"
+      },
+      "category": "mobile",
+      "createDate": "2020-03-17T00:00:00.000Z"
+    },
+    {
+      "meta": {
+        "images": {
+          "post": "https://baltaio.blob.core.windows.net/blog/docker-instalacao-configuracao-e-primeiros-passos.jpg",
+          "social": "https://baltaio.blob.core.windows.net/blog/docker-instalacao-configuracao-e-primeiros-passos.jpg"
+        },
+        "description": "O Docker é uma forma de abstração da nossa infraestrutura que nos beneficia tanto em tempo de desenvolvimento quanto em produção.",
+        "keywords": "docker",
+        "url": "docker-instalacao-configuracao-e-primeiros-passos"
+      },
+      "_id": "5e5fff8c7c213e3443e82b81",
+      "title": "Docker - Instalação, Configuração e Primeiros Passos",
+      "summary": "O Docker é uma forma de abstração da nossa infraestrutura que nos beneficia tanto em tempo de desenvolvimento quanto em produção.",
+      "author": {
+        "bio": "Olá eu sou o André Baltieri, desenvolvedor Web desde 2003, já trabalhei no Brasil e nos EUA, em projetos de diversos tamanhos. <br><br>Recebi por sete vezes consecutivas, o prêmio de Most Valuable Professional da Microsoft, um reconhecimento global dado para os maiores influentes em suas tecnologias. <br><br>Atuei também como Head of People, recrutando, selecionando e direcionando a carreira de mais de 70 desenvolvedores em uma das melhores empresas para se trabalhar do Brasil.<br><br>Sou palestrante em diversos eventos como ASP.NET Conference, DevXperience, TDC, GDG dentre outros e desde 2012 realizo treinamentos e consultorias em diversas empresas do Brasil, acumulando uma ótima experiência que também transformo em cursos InCompany e Online.",
+        "_id": "5b608805b8be7b3d00f6114e",
+        "name": "André Baltieri",
+        "title": "7x Microsoft MVP",
+        "badge": "",
+        "image": "https://baltaio.blob.core.windows.net/student-images/1edd5c50-bae9-11e8-8eb4-39de303632c1.jpg"
+      },
+      "category": "backend",
+      "createDate": "2020-03-04T00:00:00.000Z"
+    },
+    {
+      "meta": {
+        "images": {
+          "post": "https://baltaio.blob.core.windows.net/blog/flutter-signalr.png",
+          "social": "https://baltaio.blob.core.windows.net/blog/flutter-signalr.png"
+        },
+        "description": "Flutter SignalR, vamos ver como implmentar a comunicação em tempo real entre aplicativos Web e Mobile utilizando estas tecnologias.",
+        "keywords": "flutter signalr",
+        "url": "flutter-signalr"
+      },
+      "_id": "5e5d0d7ce7179a5e7ee53cc4",
+      "title": "Flutter SignalR: Comunicação em Tempo Real",
+      "summary": "Flutter SignalR, vamos ver como implmentar a comunicação em tempo real entre aplicativos Web e Mobile utilizando estas tecnologias.",
+      "author": {
+        "bio": "Olá eu sou o André Baltieri, desenvolvedor Web desde 2003, já trabalhei no Brasil e nos EUA, em projetos de diversos tamanhos. <br><br>Recebi por sete vezes consecutivas, o prêmio de Most Valuable Professional da Microsoft, um reconhecimento global dado para os maiores influentes em suas tecnologias. <br><br>Atuei também como Head of People, recrutando, selecionando e direcionando a carreira de mais de 70 desenvolvedores em uma das melhores empresas para se trabalhar do Brasil.<br><br>Sou palestrante em diversos eventos como ASP.NET Conference, DevXperience, TDC, GDG dentre outros e desde 2012 realizo treinamentos e consultorias em diversas empresas do Brasil, acumulando uma ótima experiência que também transformo em cursos InCompany e Online.",
+        "_id": "5b608805b8be7b3d00f6114e",
+        "name": "André Baltieri",
+        "title": "7x Microsoft MVP",
+        "badge": "",
+        "image": "https://baltaio.blob.core.windows.net/student-images/1edd5c50-bae9-11e8-8eb4-39de303632c1.jpg"
+      },
+      "category": "mobile",
+      "createDate": "2020-03-02T00:00:00.000Z"
+    },
+    {
+      "meta": {
+        "images": {
+          "post": "https://baltaio.blob.core.windows.net/blog/flutter-mobx.jpg",
+          "social": "https://baltaio.blob.core.windows.net/blog/flutter-mobx.jpg"
+        },
+        "description": "Flutter e MobX parece um casamento perfeito, e se você está procurando algo para gestão de estado dos seus Apps, talvez este seja o casal certo.",
+        "keywords": "flutter dart mobx",
+        "url": "flutter-mobx"
+      },
+      "_id": "5e58260e7c213e673740309e",
+      "title": "Flutter MobX - Gestão de Estado de forma simples",
+      "summary": "Flutter e MobX parece um casamento perfeito, e se você está procurando algo para gestão de estado dos seus Apps, talvez este seja o casal certo.",
+      "author": {
+        "bio": "Olá eu sou o André Baltieri, desenvolvedor Web desde 2003, já trabalhei no Brasil e nos EUA, em projetos de diversos tamanhos. <br><br>Recebi por sete vezes consecutivas, o prêmio de Most Valuable Professional da Microsoft, um reconhecimento global dado para os maiores influentes em suas tecnologias. <br><br>Atuei também como Head of People, recrutando, selecionando e direcionando a carreira de mais de 70 desenvolvedores em uma das melhores empresas para se trabalhar do Brasil.<br><br>Sou palestrante em diversos eventos como ASP.NET Conference, DevXperience, TDC, GDG dentre outros e desde 2012 realizo treinamentos e consultorias em diversas empresas do Brasil, acumulando uma ótima experiência que também transformo em cursos InCompany e Online.",
+        "_id": "5b608805b8be7b3d00f6114e",
+        "name": "André Baltieri",
+        "title": "7x Microsoft MVP",
+        "badge": "",
+        "image": "https://baltaio.blob.core.windows.net/student-images/1edd5c50-bae9-11e8-8eb4-39de303632c1.jpg"
+      },
+      "category": "mobile",
+      "createDate": "2020-02-28T00:00:00.000Z"
+    },
+    {
+      "meta": {
+        "images": {
+          "post": "https://baltaio.blob.core.windows.net/blog/soft-delete-aspnet-core-ef-core.jpg",
+          "social": "https://baltaio.blob.core.windows.net/blog/soft-delete-aspnet-core-ef-core.jpg"
+        },
+        "description": "Soft Delete com ASP.NET Core e EF Core é uma questão recorrente que recebo de dúvidas, e existem várias formas de resolver este problema.",
+        "keywords": "microsoft dotnet dotnetcore ef efcore entityframework entityframeworkcore soft delete softdelete",
+        "url": "soft-delete-aspnet-core-ef-core"
+      },
+      "_id": "5e4e9c837c213e67373d3766",
+      "title": "Soft Delete com ASP.NET Core e EF Core",
+      "summary": "Soft Delete com ASP.NET Core e EF Core é uma questão recorrente que recebo de dúvidas, e existem várias formas de resolver este problema.",
+      "author": {
+        "bio": "Olá eu sou o André Baltieri, desenvolvedor Web desde 2003, já trabalhei no Brasil e nos EUA, em projetos de diversos tamanhos. <br><br>Recebi por sete vezes consecutivas, o prêmio de Most Valuable Professional da Microsoft, um reconhecimento global dado para os maiores influentes em suas tecnologias. <br><br>Atuei também como Head of People, recrutando, selecionando e direcionando a carreira de mais de 70 desenvolvedores em uma das melhores empresas para se trabalhar do Brasil.<br><br>Sou palestrante em diversos eventos como ASP.NET Conference, DevXperience, TDC, GDG dentre outros e desde 2012 realizo treinamentos e consultorias em diversas empresas do Brasil, acumulando uma ótima experiência que também transformo em cursos InCompany e Online.",
+        "_id": "5b608805b8be7b3d00f6114e",
+        "name": "André Baltieri",
+        "title": "7x Microsoft MVP",
+        "badge": "",
+        "image": "https://baltaio.blob.core.windows.net/student-images/1edd5c50-bae9-11e8-8eb4-39de303632c1.jpg"
+      },
+      "category": "backend",
+      "createDate": "2020-02-26T00:00:00.000Z"
+    },
+    {
+      "meta": {
+        "images": {
+          "post": "https://baltaio.blob.core.windows.net/blog/como-comecar-com-flutter.jpg",
+          "social": "https://baltaio.blob.core.windows.net/blog/como-comecar-com-flutter.jpg"
+        },
+        "description": "Flutter: Por onde começar? Se você se fez esta pergunta então você está no lugar certo, aqui está todo material necessário para você iniciar sua jornada.",
+        "keywords": "flutter mobile ios android dart material cupertino bloc provider state management curso cursos gratis gratuito instalacao",
+        "url": "flutter-por-onde-comecar"
+      },
+      "_id": "5e4d7d107c213e67373ccfb1",
+      "title": "Flutter: Por onde começar?",
+      "summary": "Flutter: Por onde começar? Se você se fez esta pergunta então você está no lugar certo, aqui está todo material necessário para você iniciar sua jornada.",
+      "author": {
+        "bio": "Olá eu sou o André Baltieri, desenvolvedor Web desde 2003, já trabalhei no Brasil e nos EUA, em projetos de diversos tamanhos. <br><br>Recebi por sete vezes consecutivas, o prêmio de Most Valuable Professional da Microsoft, um reconhecimento global dado para os maiores influentes em suas tecnologias. <br><br>Atuei também como Head of People, recrutando, selecionando e direcionando a carreira de mais de 70 desenvolvedores em uma das melhores empresas para se trabalhar do Brasil.<br><br>Sou palestrante em diversos eventos como ASP.NET Conference, DevXperience, TDC, GDG dentre outros e desde 2012 realizo treinamentos e consultorias em diversas empresas do Brasil, acumulando uma ótima experiência que também transformo em cursos InCompany e Online.",
+        "_id": "5b608805b8be7b3d00f6114e",
+        "name": "André Baltieri",
+        "title": "7x Microsoft MVP",
+        "badge": "",
+        "image": "https://baltaio.blob.core.windows.net/student-images/1edd5c50-bae9-11e8-8eb4-39de303632c1.jpg"
+      },
+      "category": "mobile",
+      "createDate": "2020-02-24T00:00:00.000Z"
+    },
+    {
+      "meta": {
+        "images": {
+          "post": "https://baltaio.blob.core.windows.net/blog/mudancas-ef-core-5.jpg",
+          "social": "https://baltaio.blob.core.windows.net/blog/mudancas-ef-core-5.jpg"
+        },
+        "description": "Mudanças no EF Core 5 estão a caminho, mas o que de fato devemos esperar delas? Será que as preces da comunidade serão ouvidas?.",
+        "keywords": "microsoft dotnet dotnetcore ef efcore entityframework entityframeworkcore",
+        "url": "mudancas-ef-core-5"
+      },
+      "_id": "5e4d56d67c213e47b9dab320",
+      "title": "Mudanças no EF Core 5 que todos aguardamos",
+      "summary": "Mudanças no EF Core 5 estão a caminho, mas o que de fato devemos esperar delas? Será que as preces da comunidade serão ouvidas?",
+      "author": {
+        "bio": "Olá eu sou o André Baltieri, desenvolvedor Web desde 2003, já trabalhei no Brasil e nos EUA, em projetos de diversos tamanhos. <br><br>Recebi por sete vezes consecutivas, o prêmio de Most Valuable Professional da Microsoft, um reconhecimento global dado para os maiores influentes em suas tecnologias. <br><br>Atuei também como Head of People, recrutando, selecionando e direcionando a carreira de mais de 70 desenvolvedores em uma das melhores empresas para se trabalhar do Brasil.<br><br>Sou palestrante em diversos eventos como ASP.NET Conference, DevXperience, TDC, GDG dentre outros e desde 2012 realizo treinamentos e consultorias em diversas empresas do Brasil, acumulando uma ótima experiência que também transformo em cursos InCompany e Online.",
+        "_id": "5b608805b8be7b3d00f6114e",
+        "name": "André Baltieri",
+        "title": "7x Microsoft MVP",
+        "badge": "",
+        "image": "https://baltaio.blob.core.windows.net/student-images/1edd5c50-bae9-11e8-8eb4-39de303632c1.jpg"
+      },
+      "category": "backend",
+      "createDate": "2020-02-19T00:00:00.000Z"
+    },
+    {
+      "meta": {
+        "images": {
+          "post": "https://baltaio.blob.core.windows.net/blog/flutter-setstate-bloc-mobx-state-management.png",
+          "social": "https://baltaio.blob.core.windows.net/blog/flutter-setstate-bloc-mobx-state-management.png"
+        },
+        "description": "Neste artigo vamos abordar as principais dúvidas sobre SetState, BLoC, MobX e State Management no Flutter.",
+        "keywords": "flutter mobile ios android dart material cupertino bloc provider state management setState mobx",
+        "url": "flutter-setstate-bloc-mobx-state-management"
+      },
+      "_id": "5e41e68ee7179a2f011abbe5",
+      "title": "Flutter: SetState, BLoC, MobX e State Management",
+      "summary": "Será que MobX substitui o BLOC? Não devemos mais usar SetState? E aí, vamos discutir?",
+      "author": {
+        "bio": "Olá eu sou o André Baltieri, desenvolvedor Web desde 2003, já trabalhei no Brasil e nos EUA, em projetos de diversos tamanhos. <br><br>Recebi por sete vezes consecutivas, o prêmio de Most Valuable Professional da Microsoft, um reconhecimento global dado para os maiores influentes em suas tecnologias. <br><br>Atuei também como Head of People, recrutando, selecionando e direcionando a carreira de mais de 70 desenvolvedores em uma das melhores empresas para se trabalhar do Brasil.<br><br>Sou palestrante em diversos eventos como ASP.NET Conference, DevXperience, TDC, GDG dentre outros e desde 2012 realizo treinamentos e consultorias em diversas empresas do Brasil, acumulando uma ótima experiência que também transformo em cursos InCompany e Online.",
+        "_id": "5b608805b8be7b3d00f6114e",
+        "name": "André Baltieri",
+        "title": "7x Microsoft MVP",
+        "badge": "",
+        "image": "https://baltaio.blob.core.windows.net/student-images/1edd5c50-bae9-11e8-8eb4-39de303632c1.jpg"
+      },
+      "category": "mobile",
+      "createDate": "2020-02-10T00:00:00.000Z"
+    },
+    {
+      "meta": {
+        "images": {
+          "post": "https://baltaio.blob.core.windows.net/blog/masterclass-flutter-mobx-mvc-mvvm.png",
+          "social": "https://baltaio.blob.core.windows.net/blog/masterclass-flutter-mobx-mvc-mvvm.png"
+        },
+        "description": "Nesta mega aula vamos aprender os conceitos de MVC, MVVM e MobX no Flutter, e como eles se interagem.",
+        "keywords": "flutter mobile ios android dart material cupertino bloc provider state management mobx mvc mvvm",
+        "url": "masterclass-flutter-mobx-mvc-mvvm"
+      },
+      "_id": "5e383c2ee7179a2f01176db4",
+      "title": "Masterclass: Flutter, MVC, MVVM e MobX",
+      "summary": "Quer dar uma conferida nestes padrões e descobrir como eles se interagem?",
+      "author": {
+        "bio": "Olá eu sou o André Baltieri, desenvolvedor Web desde 2003, já trabalhei no Brasil e nos EUA, em projetos de diversos tamanhos. <br><br>Recebi por sete vezes consecutivas, o prêmio de Most Valuable Professional da Microsoft, um reconhecimento global dado para os maiores influentes em suas tecnologias. <br><br>Atuei também como Head of People, recrutando, selecionando e direcionando a carreira de mais de 70 desenvolvedores em uma das melhores empresas para se trabalhar do Brasil.<br><br>Sou palestrante em diversos eventos como ASP.NET Conference, DevXperience, TDC, GDG dentre outros e desde 2012 realizo treinamentos e consultorias em diversas empresas do Brasil, acumulando uma ótima experiência que também transformo em cursos InCompany e Online.",
+        "_id": "5b608805b8be7b3d00f6114e",
+        "name": "André Baltieri",
+        "title": "7x Microsoft MVP",
+        "badge": "",
+        "image": "https://baltaio.blob.core.windows.net/student-images/1edd5c50-bae9-11e8-8eb4-39de303632c1.jpg"
+      },
+      "category": "mobile",
+      "createDate": "2020-02-03T00:00:00.000Z"
+    },
+    {
+      "meta": {
+        "images": {
+          "post": "https://baltaio.blob.core.windows.net/blog/upload-imagem-azure-node.jpg",
+          "social": "https://baltaio.blob.core.windows.net/blog/upload-imagem-azure-node.jpg"
+        },
+        "description": "Neste artigo vamos aprender como criar um serviço de envio de imagens para o Azure Storage em Node com poucas linhas de código.",
+        "keywords": "node javascript azure storage image imageupload base64 js",
+        "url": "upload-imagem-azure-storage-node"
+      },
+      "_id": "5e1b30ade7179a2f010ced99",
+      "title": "Upload de imagem para o Azure Storage com Node",
+      "summary": "Que tal criar um serviço de envio de imagens para o Azure Storage em Node em poucas linhas de código?",
+      "author": {
+        "bio": "Olá eu sou o André Baltieri, desenvolvedor Web desde 2003, já trabalhei no Brasil e nos EUA, em projetos de diversos tamanhos. <br><br>Recebi por sete vezes consecutivas, o prêmio de Most Valuable Professional da Microsoft, um reconhecimento global dado para os maiores influentes em suas tecnologias. <br><br>Atuei também como Head of People, recrutando, selecionando e direcionando a carreira de mais de 70 desenvolvedores em uma das melhores empresas para se trabalhar do Brasil.<br><br>Sou palestrante em diversos eventos como ASP.NET Conference, DevXperience, TDC, GDG dentre outros e desde 2012 realizo treinamentos e consultorias em diversas empresas do Brasil, acumulando uma ótima experiência que também transformo em cursos InCompany e Online.",
+        "_id": "5b608805b8be7b3d00f6114e",
+        "name": "André Baltieri",
+        "title": "7x Microsoft MVP",
+        "badge": "",
+        "image": "https://baltaio.blob.core.windows.net/student-images/1edd5c50-bae9-11e8-8eb4-39de303632c1.jpg"
+      },
+      "category": "backend",
+      "createDate": "2020-01-13T00:00:00.000Z"
+    },
+    {
+      "meta": {
+        "images": {
+          "post": "https://baltaio.blob.core.windows.net/blog/upload-imagem-azure-storage-csharp.png",
+          "social": "https://baltaio.blob.core.windows.net/blog/upload-imagem-azure-storage-csharp.png"
+        },
+        "description": "Neste artigo vamos aprender como criar um serviço de envio de imagens para o Azure Storage em C# com menos de 20 linhas de código.",
+        "keywords": "aspnet core aspnetcore azure storage image imageupload base64 csharp",
+        "url": "upload-imagem-azure-storage-csharp"
+      },
+      "_id": "5e0e0c927c213e47b9c56a74",
+      "title": "Upload de imagem para o Azure Storage com C#",
+      "summary": "Que tal criar um serviço de envio de imagens para o Azure Storage em C# com menos de 20 linhas de código?",
+      "author": {
+        "bio": "Olá eu sou o André Baltieri, desenvolvedor Web desde 2003, já trabalhei no Brasil e nos EUA, em projetos de diversos tamanhos. <br><br>Recebi por sete vezes consecutivas, o prêmio de Most Valuable Professional da Microsoft, um reconhecimento global dado para os maiores influentes em suas tecnologias. <br><br>Atuei também como Head of People, recrutando, selecionando e direcionando a carreira de mais de 70 desenvolvedores em uma das melhores empresas para se trabalhar do Brasil.<br><br>Sou palestrante em diversos eventos como ASP.NET Conference, DevXperience, TDC, GDG dentre outros e desde 2012 realizo treinamentos e consultorias em diversas empresas do Brasil, acumulando uma ótima experiência que também transformo em cursos InCompany e Online.",
+        "_id": "5b608805b8be7b3d00f6114e",
+        "name": "André Baltieri",
+        "title": "7x Microsoft MVP",
+        "badge": "",
+        "image": "https://baltaio.blob.core.windows.net/student-images/1edd5c50-bae9-11e8-8eb4-39de303632c1.jpg"
+      },
+      "category": "backend",
+      "createDate": "2020-01-02T00:00:00.000Z"
+    },
+    {
+      "meta": {
+        "images": {
+          "post": "https://baltaio.blob.core.windows.net/blog/aspnetcore-3-1-autenticando-sua-api-com-google-via-firebase.jpg",
+          "social": "https://baltaio.blob.core.windows.net/blog/aspnetcore-3-1-autenticando-sua-api-com-google-via-firebase.jpg"
+        },
+        "description": "Neste artigo vamos aprender como validar os Tokens do Google em nossas APIs com ASP.NET Core 3.1 e Firebase.",
+        "keywords": "aspnet core aspnetcore auth authentication authorization autenticacao autorizacao roles claims identity firebase google google login",
+        "url": "aspnetcore-3-1-autenticando-sua-api-com-google-via-firebase"
+      },
+      "_id": "5de914c87c213e1ce1738a42",
+      "title": "ASP.NET Core 3.1 - Autenticando sua API com Google via Firebase",
+      "summary": "Está perdido sobre como fazer autenticação externa com sua API? Este artigo vai te ajudar!",
+      "author": {
+        "bio": "Olá eu sou o André Baltieri, desenvolvedor Web desde 2003, já trabalhei no Brasil e nos EUA, em projetos de diversos tamanhos. <br><br>Recebi por sete vezes consecutivas, o prêmio de Most Valuable Professional da Microsoft, um reconhecimento global dado para os maiores influentes em suas tecnologias. <br><br>Atuei também como Head of People, recrutando, selecionando e direcionando a carreira de mais de 70 desenvolvedores em uma das melhores empresas para se trabalhar do Brasil.<br><br>Sou palestrante em diversos eventos como ASP.NET Conference, DevXperience, TDC, GDG dentre outros e desde 2012 realizo treinamentos e consultorias em diversas empresas do Brasil, acumulando uma ótima experiência que também transformo em cursos InCompany e Online.",
+        "_id": "5b608805b8be7b3d00f6114e",
+        "name": "André Baltieri",
+        "title": "7x Microsoft MVP",
+        "badge": "",
+        "image": "https://baltaio.blob.core.windows.net/student-images/1edd5c50-bae9-11e8-8eb4-39de303632c1.jpg"
+      },
+      "category": "backend",
+      "createDate": "2019-12-05T00:00:00.000Z"
+    },
+    {
+      "meta": {
+        "images": {
+          "post": "https://baltaio.blob.core.windows.net/blog/aspnetcore3-autenticacao-autorizacao-jwt-bearer.png",
+          "social": "https://baltaio.blob.core.windows.net/blog/aspnetcore3-autenticacao-autorizacao-jwt-bearer.png"
+        },
+        "description": "Aprenda a criar, da forma mais simples e funcional possível, um esquema de autenticação e autorização baseada em perfis (Roles) no ASP.NET Core 3.0.",
+        "keywords": "aspnet core aspnetcore auth authentication authorization autenticacao autorizacao roles claims identity",
+        "url": "aspnetcore-3-autenticacao-autorizacao-bearer-jwt"
+      },
+      "_id": "5dc590b9e7179a2fdf3c7937",
+      "title": "ASP.NET Core 3 – Autenticação e Autorização com Bearer e JWT",
+      "summary": "Aprenda a criar, da forma mais simples e funcional possível, um esquema de autenticação e autorização baseada em perfis (Roles) no ASP.NET Core 3.0.",
+      "author": {
+        "bio": "Olá eu sou o André Baltieri, desenvolvedor Web desde 2003, já trabalhei no Brasil e nos EUA, em projetos de diversos tamanhos. <br><br>Recebi por sete vezes consecutivas, o prêmio de Most Valuable Professional da Microsoft, um reconhecimento global dado para os maiores influentes em suas tecnologias. <br><br>Atuei também como Head of People, recrutando, selecionando e direcionando a carreira de mais de 70 desenvolvedores em uma das melhores empresas para se trabalhar do Brasil.<br><br>Sou palestrante em diversos eventos como ASP.NET Conference, DevXperience, TDC, GDG dentre outros e desde 2012 realizo treinamentos e consultorias em diversas empresas do Brasil, acumulando uma ótima experiência que também transformo em cursos InCompany e Online.",
+        "_id": "5b608805b8be7b3d00f6114e",
+        "name": "André Baltieri",
+        "title": "7x Microsoft MVP",
+        "badge": "",
+        "image": "https://baltaio.blob.core.windows.net/student-images/1edd5c50-bae9-11e8-8eb4-39de303632c1.jpg"
+      },
+      "category": "backend",
+      "createDate": "2019-11-08T00:00:00.000Z"
+    },
+    {
+      "meta": {
+        "images": {
+          "post": "https://baltaio.blob.core.windows.net/blog/pwa-hibrido-nativo.png",
+          "social": "https://baltaio.blob.core.windows.net/blog/pwa-hibrido-nativo.png"
+        },
+        "description": "Está perdido sem saber qual destas tecnologias utilizar?",
+        "keywords": "pwa, ionic, angular, vuew, react, react native, quasar, xamarin, flutter, dart, csharp",
+        "url": "pwa-hibrido-nativo"
+      },
+      "_id": "5dc2d02fe7179a4e60106b94",
+      "title": "PWA, Híbrido ou Nativo",
+      "summary": "Está perdido sem saber qual destas tecnologias utilizar?",
+      "author": {
+        "bio": "Olá eu sou o André Baltieri, desenvolvedor Web desde 2003, já trabalhei no Brasil e nos EUA, em projetos de diversos tamanhos. <br><br>Recebi por sete vezes consecutivas, o prêmio de Most Valuable Professional da Microsoft, um reconhecimento global dado para os maiores influentes em suas tecnologias. <br><br>Atuei também como Head of People, recrutando, selecionando e direcionando a carreira de mais de 70 desenvolvedores em uma das melhores empresas para se trabalhar do Brasil.<br><br>Sou palestrante em diversos eventos como ASP.NET Conference, DevXperience, TDC, GDG dentre outros e desde 2012 realizo treinamentos e consultorias em diversas empresas do Brasil, acumulando uma ótima experiência que também transformo em cursos InCompany e Online.",
+        "_id": "5b608805b8be7b3d00f6114e",
+        "name": "André Baltieri",
+        "title": "7x Microsoft MVP",
+        "badge": "",
+        "image": "https://baltaio.blob.core.windows.net/student-images/1edd5c50-bae9-11e8-8eb4-39de303632c1.jpg"
+      },
+      "category": "backend",
+      "createDate": "2019-11-06T00:00:00.000Z"
+    },
+    {
+      "meta": {
+        "images": {
+          "post": "https://baltaio.blob.core.windows.net/blog/data-driven-vs-domain-driven.png",
+          "social": "https://baltaio.blob.core.windows.net/blog/data-driven-vs-domain-driven.png"
+        },
+        "description": "Você sabe qual diferença entre se orientar pelo domínio ou pelos dados?",
+        "keywords": "aspnet core aspnetcore microsoft csharp datadriven domaindriven ddd",
+        "url": "data-driven-vs-domain-driven"
+      },
+      "_id": "5dbb489a7c213e208d1c744b",
+      "title": "Data Driven vs Domain Driven",
+      "summary": "Você sabe qual diferença entre se orientar pelo domínio ou pelos dados?",
+      "author": {
+        "bio": "Olá eu sou o André Baltieri, desenvolvedor Web desde 2003, já trabalhei no Brasil e nos EUA, em projetos de diversos tamanhos. <br><br>Recebi por sete vezes consecutivas, o prêmio de Most Valuable Professional da Microsoft, um reconhecimento global dado para os maiores influentes em suas tecnologias. <br><br>Atuei também como Head of People, recrutando, selecionando e direcionando a carreira de mais de 70 desenvolvedores em uma das melhores empresas para se trabalhar do Brasil.<br><br>Sou palestrante em diversos eventos como ASP.NET Conference, DevXperience, TDC, GDG dentre outros e desde 2012 realizo treinamentos e consultorias em diversas empresas do Brasil, acumulando uma ótima experiência que também transformo em cursos InCompany e Online.",
+        "_id": "5b608805b8be7b3d00f6114e",
+        "name": "André Baltieri",
+        "title": "7x Microsoft MVP",
+        "badge": "",
+        "image": "https://baltaio.blob.core.windows.net/student-images/1edd5c50-bae9-11e8-8eb4-39de303632c1.jpg"
+      },
+      "category": "backend",
+      "createDate": "2019-10-31T00:00:00.000Z"
+    },
+    {
+      "meta": {
+        "images": {
+          "post": "https://baltaio.blob.core.windows.net/blog/flutter-bloc-basico.png",
+          "social": "https://baltaio.blob.core.windows.net/blog/flutter-bloc-basico.png"
+        },
+        "description": "Ainda está confuso sobre o que é e quando utilizar BLoC no Flutter?",
+        "keywords": "flutter dart google bloc",
+        "url": "flutter-bloc-implementacao-basica"
+      },
+      "_id": "5db6e40f7c213e5561449f37",
+      "title": "Flutter e BLoC - Implementação básica",
+      "summary": "Ainda está confuso sobre o que é e quando utilizar BLoC no Flutter?",
+      "author": {
+        "bio": "Olá eu sou o André Baltieri, desenvolvedor Web desde 2003, já trabalhei no Brasil e nos EUA, em projetos de diversos tamanhos. <br><br>Recebi por sete vezes consecutivas, o prêmio de Most Valuable Professional da Microsoft, um reconhecimento global dado para os maiores influentes em suas tecnologias. <br><br>Atuei também como Head of People, recrutando, selecionando e direcionando a carreira de mais de 70 desenvolvedores em uma das melhores empresas para se trabalhar do Brasil.<br><br>Sou palestrante em diversos eventos como ASP.NET Conference, DevXperience, TDC, GDG dentre outros e desde 2012 realizo treinamentos e consultorias em diversas empresas do Brasil, acumulando uma ótima experiência que também transformo em cursos InCompany e Online.",
+        "_id": "5b608805b8be7b3d00f6114e",
+        "name": "André Baltieri",
+        "title": "7x Microsoft MVP",
+        "badge": "",
+        "image": "https://baltaio.blob.core.windows.net/student-images/1edd5c50-bae9-11e8-8eb4-39de303632c1.jpg"
+      },
+      "category": "mobile",
+      "createDate": "2019-10-28T00:00:00.000Z"
+    },
+    {
+      "meta": {
+        "images": {
+          "post": "https://baltaio.blob.core.windows.net/blog/apis-data-driven-com-aspnet-core-3-e-ef-core-3-parte-1.png",
+          "social": "https://baltaio.blob.core.windows.net/blog/apis-data-driven-com-aspnet-core-3-e-ef-core-3-parte-1.png"
+        },
+        "description": "Quer criar uma API de forma simples, sem DDD e outras burocracias?",
+        "keywords": "aspnet core aspnetcore microsoft csharp ef efcore entityframework",
+        "url": "apis-data-driven-com-aspnet-core-3-e-ef-core-3-parte-1"
+      },
+      "_id": "5dac73077c213e5561411cd2",
+      "title": "APIs Data Driven com ASP.NET Core 3.0 e EF Core 3.0 - Part 1",
+      "summary": "Quer criar uma API de forma simples, sem DDD e outras burocracias?",
+      "author": {
+        "bio": "Olá eu sou o André Baltieri, desenvolvedor Web desde 2003, já trabalhei no Brasil e nos EUA, em projetos de diversos tamanhos. <br><br>Recebi por sete vezes consecutivas, o prêmio de Most Valuable Professional da Microsoft, um reconhecimento global dado para os maiores influentes em suas tecnologias. <br><br>Atuei também como Head of People, recrutando, selecionando e direcionando a carreira de mais de 70 desenvolvedores em uma das melhores empresas para se trabalhar do Brasil.<br><br>Sou palestrante em diversos eventos como ASP.NET Conference, DevXperience, TDC, GDG dentre outros e desde 2012 realizo treinamentos e consultorias em diversas empresas do Brasil, acumulando uma ótima experiência que também transformo em cursos InCompany e Online.",
+        "_id": "5b608805b8be7b3d00f6114e",
+        "name": "André Baltieri",
+        "title": "7x Microsoft MVP",
+        "badge": "",
+        "image": "https://baltaio.blob.core.windows.net/student-images/1edd5c50-bae9-11e8-8eb4-39de303632c1.jpg"
+      },
+      "category": "backend",
+      "createDate": "2019-10-20T00:00:00.000Z"
+    },
+    {
+      "meta": {
+        "images": {
+          "post": "https://baltaio.blob.core.windows.net/blog/bem-vindo-javascript-moderno-share.png",
+          "social": "https://baltaio.blob.core.windows.net/blog/bem-vindo-javascript-moderno-share.png"
+        },
+        "description": "Ficou parado no tempo e perdeu as novidades que chegaram ao JS? Então confere este artigo.",
+        "keywords": "react angular javascript typescript ecmascript web",
+        "url": "bem-vindo-javascript-moderno"
+      },
+      "_id": "5da82e787c213e5561400699",
+      "title": "Bem-vindo JavaScript Moderno",
+      "summary": "Ficou parado no tempo e perdeu as novidades que chegaram ao JS? Então confere este artigo.",
+      "author": {
+        "bio": "Olá eu sou o André Baltieri, desenvolvedor Web desde 2003, já trabalhei no Brasil e nos EUA, em projetos de diversos tamanhos. <br><br>Recebi por sete vezes consecutivas, o prêmio de Most Valuable Professional da Microsoft, um reconhecimento global dado para os maiores influentes em suas tecnologias. <br><br>Atuei também como Head of People, recrutando, selecionando e direcionando a carreira de mais de 70 desenvolvedores em uma das melhores empresas para se trabalhar do Brasil.<br><br>Sou palestrante em diversos eventos como ASP.NET Conference, DevXperience, TDC, GDG dentre outros e desde 2012 realizo treinamentos e consultorias em diversas empresas do Brasil, acumulando uma ótima experiência que também transformo em cursos InCompany e Online.",
+        "_id": "5b608805b8be7b3d00f6114e",
+        "name": "André Baltieri",
+        "title": "7x Microsoft MVP",
+        "badge": "",
+        "image": "https://baltaio.blob.core.windows.net/student-images/1edd5c50-bae9-11e8-8eb4-39de303632c1.jpg"
+      },
+      "category": "frontend",
+      "createDate": "2019-10-17T00:00:00.000Z"
+    },
+    {
+      "meta": {
+        "images": {
+          "post": "https://baltaio.blob.core.windows.net/blog/react-ionic-typescript-post.jpg",
+          "social": "https://baltaio.blob.core.windows.net/blog/react-ionic-typescript-share.png"
+        },
+        "description": "Um dos frameworks JavaScript mais populares chega ao Ionic, vamos conferir como ficou?",
+        "keywords": "react javascript typescript ionic",
+        "url": "react-ionic-typescript"
+      },
+      "_id": "5da639e27c213e55613f40ba",
+      "title": "React com Ionic e TypeScript",
+      "summary": "Um dos frameworks JavaScript mais populares chega ao Ionic, vamos conferir como ficou?",
+      "author": {
+        "bio": "Olá eu sou o André Baltieri, desenvolvedor Web desde 2003, já trabalhei no Brasil e nos EUA, em projetos de diversos tamanhos. <br><br>Recebi por sete vezes consecutivas, o prêmio de Most Valuable Professional da Microsoft, um reconhecimento global dado para os maiores influentes em suas tecnologias. <br><br>Atuei também como Head of People, recrutando, selecionando e direcionando a carreira de mais de 70 desenvolvedores em uma das melhores empresas para se trabalhar do Brasil.<br><br>Sou palestrante em diversos eventos como ASP.NET Conference, DevXperience, TDC, GDG dentre outros e desde 2012 realizo treinamentos e consultorias em diversas empresas do Brasil, acumulando uma ótima experiência que também transformo em cursos InCompany e Online.",
+        "_id": "5b608805b8be7b3d00f6114e",
+        "name": "André Baltieri",
+        "title": "7x Microsoft MVP",
+        "badge": "",
+        "image": "https://baltaio.blob.core.windows.net/student-images/1edd5c50-bae9-11e8-8eb4-39de303632c1.jpg"
+      },
+      "category": "frontend",
+      "createDate": "2019-10-15T00:00:00.000Z"
+    },
+    {
+      "meta": {
+        "images": {
+          "post": "https://baltaio.blob.core.windows.net/blog/blazor-e-o-futuro-da-web-post.jpg",
+          "social": "https://baltaio.blob.core.windows.net/blog/blazor-e-o-futuro-da-web-share.png"
+        },
+        "description": "O que é WASM? JavaScript é mesmo ruim? Blazor tem futuro? Vamos ver neste artigo!",
+        "keywords": "dotnet dotnetcore aspnet aspnetcore csharp blazor wasm webassembly javascript web",
+        "url": "blazor-e-o-futuro-da-web"
+      },
+      "_id": "5da464f77c213e55613e71d6",
+      "title": "Blazor e o Futuro da Web",
+      "summary": "O que é WASM? JavaScript é mesmo ruim? Blazor tem futuro? Vamos ver neste artigo!",
+      "author": {
+        "bio": "Olá eu sou o André Baltieri, desenvolvedor Web desde 2003, já trabalhei no Brasil e nos EUA, em projetos de diversos tamanhos. <br><br>Recebi por sete vezes consecutivas, o prêmio de Most Valuable Professional da Microsoft, um reconhecimento global dado para os maiores influentes em suas tecnologias. <br><br>Atuei também como Head of People, recrutando, selecionando e direcionando a carreira de mais de 70 desenvolvedores em uma das melhores empresas para se trabalhar do Brasil.<br><br>Sou palestrante em diversos eventos como ASP.NET Conference, DevXperience, TDC, GDG dentre outros e desde 2012 realizo treinamentos e consultorias em diversas empresas do Brasil, acumulando uma ótima experiência que também transformo em cursos InCompany e Online.",
+        "_id": "5b608805b8be7b3d00f6114e",
+        "name": "André Baltieri",
+        "title": "7x Microsoft MVP",
+        "badge": "",
+        "image": "https://baltaio.blob.core.windows.net/student-images/1edd5c50-bae9-11e8-8eb4-39de303632c1.jpg"
+      },
+      "category": "backend",
+      "createDate": "2019-10-14T00:00:00.000Z"
+    },
+    {
+      "meta": {
+        "images": {
+          "post": "https://baltaio.blob.core.windows.net/blog/dotnetconf-dotnetcore-resumo-post.png",
+          "social": "https://baltaio.blob.core.windows.net/blog/dotnetconf-dotnetcore-resumo-share.png"
+        },
+        "description": "Tivemos grandes lançamentos do .NET Core neste mega evento que é o .NET Conf. Que tal conferir tudo que rolou e as melhores novidades?",
+        "keywords": "dotnet dotnetcore aspnet aspnetcore mvc",
+        "url": "dotnetconf-dotnetcore-resumo"
+      },
+      "_id": "5d8e2fd8e7179a022443835c",
+      "title": ".NET Conf e .NET Core - Resumo",
+      "summary": "Neste artigo separei as novidades do .NET Core 3.0 e os vídeos que mais gostei do .NET Conf.",
+      "author": {
+        "bio": "Olá eu sou o André Baltieri, desenvolvedor Web desde 2003, já trabalhei no Brasil e nos EUA, em projetos de diversos tamanhos. <br><br>Recebi por sete vezes consecutivas, o prêmio de Most Valuable Professional da Microsoft, um reconhecimento global dado para os maiores influentes em suas tecnologias. <br><br>Atuei também como Head of People, recrutando, selecionando e direcionando a carreira de mais de 70 desenvolvedores em uma das melhores empresas para se trabalhar do Brasil.<br><br>Sou palestrante em diversos eventos como ASP.NET Conference, DevXperience, TDC, GDG dentre outros e desde 2012 realizo treinamentos e consultorias em diversas empresas do Brasil, acumulando uma ótima experiência que também transformo em cursos InCompany e Online.",
+        "_id": "5b608805b8be7b3d00f6114e",
+        "name": "André Baltieri",
+        "title": "7x Microsoft MVP",
+        "badge": "",
+        "image": "https://baltaio.blob.core.windows.net/student-images/1edd5c50-bae9-11e8-8eb4-39de303632c1.jpg"
+      },
+      "category": "backend",
+      "createDate": "2019-09-27T00:00:00.000Z"
+    },
+    {
+      "meta": {
+        "images": {
+          "post": "https://baltaio.blob.core.windows.net/blog/angular-rotas-guardas-navegacao-post.png",
+          "social": "https://baltaio.blob.core.windows.net/blog/angular-rotas-guardas-navegacao-share.png"
+        },
+        "description": "O Angular nos fornece um esquema de rotas e navegação completo, simples e fácil de utilizar, incluindo um esquema de guardas de rotas para implementar segurança em nossos Apps.",
+        "keywords": "angular typescript rotas",
+        "url": "angular-rotas-guardas-navegacao"
+      },
+      "_id": "5d741d657c213e60b8fa8d9d",
+      "title": "Angular: Rotas, Guardas e Navegação",
+      "summary": "O Angular nos fornece um esquema de rotas e navegação completo, simples e fácil de utilizar.",
+      "author": {
+        "bio": "Olá eu sou o André Baltieri, desenvolvedor Web desde 2003, já trabalhei no Brasil e nos EUA, em projetos de diversos tamanhos. <br><br>Recebi por sete vezes consecutivas, o prêmio de Most Valuable Professional da Microsoft, um reconhecimento global dado para os maiores influentes em suas tecnologias. <br><br>Atuei também como Head of People, recrutando, selecionando e direcionando a carreira de mais de 70 desenvolvedores em uma das melhores empresas para se trabalhar do Brasil.<br><br>Sou palestrante em diversos eventos como ASP.NET Conference, DevXperience, TDC, GDG dentre outros e desde 2012 realizo treinamentos e consultorias em diversas empresas do Brasil, acumulando uma ótima experiência que também transformo em cursos InCompany e Online.",
+        "_id": "5b608805b8be7b3d00f6114e",
+        "name": "André Baltieri",
+        "title": "7x Microsoft MVP",
+        "badge": "",
+        "image": "https://baltaio.blob.core.windows.net/student-images/1edd5c50-bae9-11e8-8eb4-39de303632c1.jpg"
+      },
+      "category": "frontend",
+      "createDate": "2019-09-07T00:00:00.000Z"
+    },
+    {
+      "meta": {
+        "images": {
+          "post": "https://baltaio.blob.core.windows.net/blog/angular-redux-ngrx-post.png",
+          "social": "https://baltaio.blob.core.windows.net/blog/angular-redux-ngrx-share.png"
+        },
+        "description": "Com certeza você já ouviu falar de React e Redux, programação reativa e gerenciamento de estado em aplicações Web. Porém, este é um assunto pouco explorado no Angular, que também fornece tudo que precisamos para implementar estes conceitos. Vem comigo que vou te mostrar como!",
+        "keywords": "angular typescript react redux ngrx",
+        "url": "angular-redux-ngrx"
+      },
+      "_id": "5d643ee6e7179a084ef3f051",
+      "title": "Angular: Redux e NgRx",
+      "summary": "Com certeza você já ouviu falar de React e Redux! Vamos ver como ele fica no Angular.",
+      "author": {
+        "bio": "Olá eu sou o André Baltieri, desenvolvedor Web desde 2003, já trabalhei no Brasil e nos EUA, em projetos de diversos tamanhos. <br><br>Recebi por sete vezes consecutivas, o prêmio de Most Valuable Professional da Microsoft, um reconhecimento global dado para os maiores influentes em suas tecnologias. <br><br>Atuei também como Head of People, recrutando, selecionando e direcionando a carreira de mais de 70 desenvolvedores em uma das melhores empresas para se trabalhar do Brasil.<br><br>Sou palestrante em diversos eventos como ASP.NET Conference, DevXperience, TDC, GDG dentre outros e desde 2012 realizo treinamentos e consultorias em diversas empresas do Brasil, acumulando uma ótima experiência que também transformo em cursos InCompany e Online.",
+        "_id": "5b608805b8be7b3d00f6114e",
+        "name": "André Baltieri",
+        "title": "7x Microsoft MVP",
+        "badge": "",
+        "image": "https://baltaio.blob.core.windows.net/student-images/1edd5c50-bae9-11e8-8eb4-39de303632c1.jpg"
+      },
+      "category": "frontend",
+      "createDate": "2019-08-26T00:00:00.000Z"
+    },
+    {
+      "meta": {
+        "images": {
+          "post": "https://baltaio.blob.core.windows.net/blog/flutter-bloc-provider-state-management-post.png",
+          "social": "https://baltaio.blob.core.windows.net/blog/flutter-bloc-provider-state-management-share.png"
+        },
+        "description": "Neste artigo vamos abordar as principais dúvidas sobre Provider, BLoC e State Management no Flutter.",
+        "keywords": "flutter mobile ios android dart material cupertino bloc provider state management",
+        "url": "flutter-bloc-provider-state-management"
+      },
+      "_id": "5d1cff2fe7179a4e432d73bf",
+      "title": "Flutter: Provider, BLoC e State Management",
+      "summary": "Ainda tem dúvidas sobre organização, padrões e gestão de estado no Flutter?",
+      "author": {
+        "bio": "Olá eu sou o André Baltieri, desenvolvedor Web desde 2003, já trabalhei no Brasil e nos EUA, em projetos de diversos tamanhos. <br><br>Recebi por sete vezes consecutivas, o prêmio de Most Valuable Professional da Microsoft, um reconhecimento global dado para os maiores influentes em suas tecnologias. <br><br>Atuei também como Head of People, recrutando, selecionando e direcionando a carreira de mais de 70 desenvolvedores em uma das melhores empresas para se trabalhar do Brasil.<br><br>Sou palestrante em diversos eventos como ASP.NET Conference, DevXperience, TDC, GDG dentre outros e desde 2012 realizo treinamentos e consultorias em diversas empresas do Brasil, acumulando uma ótima experiência que também transformo em cursos InCompany e Online.",
+        "_id": "5b608805b8be7b3d00f6114e",
+        "name": "André Baltieri",
+        "title": "7x Microsoft MVP",
+        "badge": "",
+        "image": "https://baltaio.blob.core.windows.net/student-images/1edd5c50-bae9-11e8-8eb4-39de303632c1.jpg"
+      },
+      "category": "mobile",
+      "createDate": "2019-07-03T00:00:00.000Z"
+    },
+    {
+      "meta": {
+        "images": {
+          "post": "https://baltaio.blob.core.windows.net/blog/aspnet-core-autenticacao-autorizacao-post.png",
+          "social": "https://baltaio.blob.core.windows.net/blog/aspnet-core-autenticacao-autorizacao-share.png"
+        },
+        "description": "Neste artigo vamos entender como implementamos a autenticação e autorização em APIs no ASP.NET Core.",
+        "keywords": "aspnet aspnetcore dotnetcore token jwt bearer oauth claims roles policies authentication autenticacao authorization autorizacao",
+        "url": "aspnet-core-autenticacao-autorizacao"
+      },
+      "_id": "5d1439aee7179a4e432a76eb",
+      "title": "ASP.NET Core - Autenticação e Autorização",
+      "summary": "Autenticação via Token com Claims e Roles de forma simples e direta.",
+      "author": {
+        "bio": "Olá eu sou o André Baltieri, desenvolvedor Web desde 2003, já trabalhei no Brasil e nos EUA, em projetos de diversos tamanhos. <br><br>Recebi por sete vezes consecutivas, o prêmio de Most Valuable Professional da Microsoft, um reconhecimento global dado para os maiores influentes em suas tecnologias. <br><br>Atuei também como Head of People, recrutando, selecionando e direcionando a carreira de mais de 70 desenvolvedores em uma das melhores empresas para se trabalhar do Brasil.<br><br>Sou palestrante em diversos eventos como ASP.NET Conference, DevXperience, TDC, GDG dentre outros e desde 2012 realizo treinamentos e consultorias em diversas empresas do Brasil, acumulando uma ótima experiência que também transformo em cursos InCompany e Online.",
+        "_id": "5b608805b8be7b3d00f6114e",
+        "name": "André Baltieri",
+        "title": "7x Microsoft MVP",
+        "badge": "",
+        "image": "https://baltaio.blob.core.windows.net/student-images/1edd5c50-bae9-11e8-8eb4-39de303632c1.jpg"
+      },
+      "category": "backend",
+      "createDate": "2019-06-27T00:00:00.000Z"
+    },
+    {
+      "meta": {
+        "images": {
+          "post": "https://baltaio.blob.core.windows.net/blog/fundamentos-testes-de-unidade-post.png",
+          "social": "https://baltaio.blob.core.windows.net/blog/fundamento-testes-unidade-share.png"
+        },
+        "description": "Neste artigo, vou colocar os principais fundamentos que você precisa para ser fera em testes.",
+        "keywords": "ddd solid clean code testes unittests",
+        "url": "fundamentos-testes-de-unidade"
+      },
+      "_id": "5d026591fb6fc00e79a8fbb9",
+      "title": "Fundamentos dos Testes de Unidade",
+      "summary": "Ter uma base sólida em testes de unidade é fundamental qualidade do seu código.",
+      "author": {
+        "bio": "Olá eu sou o André Baltieri, desenvolvedor Web desde 2003, já trabalhei no Brasil e nos EUA, em projetos de diversos tamanhos. <br><br>Recebi por sete vezes consecutivas, o prêmio de Most Valuable Professional da Microsoft, um reconhecimento global dado para os maiores influentes em suas tecnologias. <br><br>Atuei também como Head of People, recrutando, selecionando e direcionando a carreira de mais de 70 desenvolvedores em uma das melhores empresas para se trabalhar do Brasil.<br><br>Sou palestrante em diversos eventos como ASP.NET Conference, DevXperience, TDC, GDG dentre outros e desde 2012 realizo treinamentos e consultorias em diversas empresas do Brasil, acumulando uma ótima experiência que também transformo em cursos InCompany e Online.",
+        "_id": "5b608805b8be7b3d00f6114e",
+        "name": "André Baltieri",
+        "title": "7x Microsoft MVP",
+        "badge": "",
+        "image": "https://baltaio.blob.core.windows.net/student-images/1edd5c50-bae9-11e8-8eb4-39de303632c1.jpg"
+      },
+      "category": "backend",
+      "createDate": "2019-06-13T00:00:00.000Z"
+    },
+    {
+      "meta": {
+        "images": {
+          "post": "https://baltaio.blob.core.windows.net/blog/comecando-com-flutter-instalacao-macos-post.png",
+          "social": "https://baltaio.blob.core.windows.net/blog/comecando-com-flutter-instalacao-macos-share.png"
+        },
+        "description": "Neste artigo vamos abordar a instalação e configuração do Flutter no MacOs.",
+        "keywords": "flutter mobile ios android dart",
+        "url": "comecando-com-flutter-instalacao-macos"
+      },
+      "_id": "5cfbf00dfb6fc00e79a5e736",
+      "title": "Começando com Flutter: Instalação no MacOs",
+      "summary": "Quer começar com Flutter mas não sabe por onde? Então começa por aqui!",
+      "author": {
+        "bio": "Olá eu sou o André Baltieri, desenvolvedor Web desde 2003, já trabalhei no Brasil e nos EUA, em projetos de diversos tamanhos. <br><br>Recebi por sete vezes consecutivas, o prêmio de Most Valuable Professional da Microsoft, um reconhecimento global dado para os maiores influentes em suas tecnologias. <br><br>Atuei também como Head of People, recrutando, selecionando e direcionando a carreira de mais de 70 desenvolvedores em uma das melhores empresas para se trabalhar do Brasil.<br><br>Sou palestrante em diversos eventos como ASP.NET Conference, DevXperience, TDC, GDG dentre outros e desde 2012 realizo treinamentos e consultorias em diversas empresas do Brasil, acumulando uma ótima experiência que também transformo em cursos InCompany e Online.",
+        "_id": "5b608805b8be7b3d00f6114e",
+        "name": "André Baltieri",
+        "title": "7x Microsoft MVP",
+        "badge": "",
+        "image": "https://baltaio.blob.core.windows.net/student-images/1edd5c50-bae9-11e8-8eb4-39de303632c1.jpg"
+      },
+      "category": "mobile",
+      "createDate": "2019-06-08T00:00:00.000Z"
+    },
+    {
+      "meta": {
+        "images": {
+          "post": "https://baltaio.blob.core.windows.net/blog/eu-nao-tenho-tempo-para-testar-post.png",
+          "social": "https://baltaio.blob.core.windows.net/blog/eu-nao-tenho-tempo-para-testar-share.png"
+        },
+        "description": "Quantas vezes você ignorou os testes, quantas vezes começou um projeto com testes de unidade e abandonou no meio do caminho por falta de tempo?",
+        "keywords": "ddd solid clean code oop unittests testes testes unidade",
+        "url": "eu-nao-tenho-tempo-para-testar"
+      },
+      "_id": "5cf814f7e7179a6896b2316a",
+      "title": "Eu não tenho tempo para testar",
+      "summary": "Quantas vezes você abandonou os testes de unidade por falta de tempo?",
+      "author": {
+        "bio": "Olá eu sou o André Baltieri, desenvolvedor Web desde 2003, já trabalhei no Brasil e nos EUA, em projetos de diversos tamanhos. <br><br>Recebi por sete vezes consecutivas, o prêmio de Most Valuable Professional da Microsoft, um reconhecimento global dado para os maiores influentes em suas tecnologias. <br><br>Atuei também como Head of People, recrutando, selecionando e direcionando a carreira de mais de 70 desenvolvedores em uma das melhores empresas para se trabalhar do Brasil.<br><br>Sou palestrante em diversos eventos como ASP.NET Conference, DevXperience, TDC, GDG dentre outros e desde 2012 realizo treinamentos e consultorias em diversas empresas do Brasil, acumulando uma ótima experiência que também transformo em cursos InCompany e Online.",
+        "_id": "5b608805b8be7b3d00f6114e",
+        "name": "André Baltieri",
+        "title": "7x Microsoft MVP",
+        "badge": "",
+        "image": "https://baltaio.blob.core.windows.net/student-images/1edd5c50-bae9-11e8-8eb4-39de303632c1.jpg"
+      },
+      "category": "backend",
+      "createDate": "2019-06-06T00:00:00.000Z"
+    },
+    {
+      "meta": {
+        "images": {
+          "post": "https://baltaio.blob.core.windows.net/blog/aspnetcore-di-post.png",
+          "social": "https://baltaio.blob.core.windows.net/blog/aspnetcore-di-share.png"
+        },
+        "description": "Neste artigo vamos entender a o que é DI, os motivos nos quais utilizamos tantas interfaces e como resolvemos as dependências utilizando ASP.NET Core.",
+        "keywords": "ddd solid clean code aspnet aspnet core di dependencyinjection",
+        "url": "aspnet-core-dependency-injection"
+      },
+      "_id": "5cec5377e7179a0a437bcc14",
+      "title": "ASP.NET Core Dependency Injection",
+      "summary": "O que são e como resolver dependências no ASP.NET Core de forma simples.",
+      "author": {
+        "bio": "Olá eu sou o André Baltieri, desenvolvedor Web desde 2003, já trabalhei no Brasil e nos EUA, em projetos de diversos tamanhos. <br><br>Recebi por sete vezes consecutivas, o prêmio de Most Valuable Professional da Microsoft, um reconhecimento global dado para os maiores influentes em suas tecnologias. <br><br>Atuei também como Head of People, recrutando, selecionando e direcionando a carreira de mais de 70 desenvolvedores em uma das melhores empresas para se trabalhar do Brasil.<br><br>Sou palestrante em diversos eventos como ASP.NET Conference, DevXperience, TDC, GDG dentre outros e desde 2012 realizo treinamentos e consultorias em diversas empresas do Brasil, acumulando uma ótima experiência que também transformo em cursos InCompany e Online.",
+        "_id": "5b608805b8be7b3d00f6114e",
+        "name": "André Baltieri",
+        "title": "7x Microsoft MVP",
+        "badge": "",
+        "image": "https://baltaio.blob.core.windows.net/student-images/1edd5c50-bae9-11e8-8eb4-39de303632c1.jpg"
+      },
+      "category": "backend",
+      "createDate": "2019-05-30T00:00:00.000Z"
+    },
+    {
+      "meta": {
+        "images": {
+          "post": "https://baltaio.blob.core.windows.net/blog/exception-vs-domain-notification-post.png",
+          "social": "https://baltaio.blob.core.windows.net/blog/exception-vs-domain-notification-share.png"
+        },
+        "description": "Neste artigo vamos entender a diferença entre Exception e Domain Notification e ver em quais cenários são recomendados o uso de um ou outro.",
+        "keywords": "ddd solid clean code exception domainnotification",
+        "url": "exception-vs-domain-notification"
+      },
+      "_id": "5ceb0408e7179a0a437b547d",
+      "title": "Exception VS Domain Notification",
+      "summary": "O que você deve utilizar? Exceptions ou Domain Notifications para validar seu domínio!",
+      "author": {
+        "bio": "Olá eu sou o André Baltieri, desenvolvedor Web desde 2003, já trabalhei no Brasil e nos EUA, em projetos de diversos tamanhos. <br><br>Recebi por sete vezes consecutivas, o prêmio de Most Valuable Professional da Microsoft, um reconhecimento global dado para os maiores influentes em suas tecnologias. <br><br>Atuei também como Head of People, recrutando, selecionando e direcionando a carreira de mais de 70 desenvolvedores em uma das melhores empresas para se trabalhar do Brasil.<br><br>Sou palestrante em diversos eventos como ASP.NET Conference, DevXperience, TDC, GDG dentre outros e desde 2012 realizo treinamentos e consultorias em diversas empresas do Brasil, acumulando uma ótima experiência que também transformo em cursos InCompany e Online.",
+        "_id": "5b608805b8be7b3d00f6114e",
+        "name": "André Baltieri",
+        "title": "7x Microsoft MVP",
+        "badge": "",
+        "image": "https://baltaio.blob.core.windows.net/student-images/1edd5c50-bae9-11e8-8eb4-39de303632c1.jpg"
+      },
+      "category": "backend",
+      "createDate": "2019-05-26T00:00:00.000Z"
+    }
+  ]
+}
